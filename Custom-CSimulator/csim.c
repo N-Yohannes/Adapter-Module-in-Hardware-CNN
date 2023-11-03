@@ -11,7 +11,7 @@
 
 // USYD Code Citation
 //
-// I, Niyana Yohannes, acknowledge that I was inspired by tutorials, forum posts and learning resources in my writing of the code // for loading, saving, printing data from this C simulator.
+// I, Niyana Yohannes, acknowledge that I was inspired by tutorials, forum posts and learning resources in my writing of the code
 
 
 #include "csim.h"
